@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="deep_orange_400">#FF7043</color>
+    <color name="deep_orange_a100">#FFA270</color>
+    <color name="deep_orange_800">#C63F17</color>
+    <color name="cyan_300">#4DD0E1</color>
+    <color name="cyan_a100">#88FFFF</color>
+    <color name="cyan_700">#009FAF</color>
+    <color name="grey_50">#FAFAFA</color>
+    <color name="pink_800">#B00020</color>
+    <color name="grey_900">#212121</color>
+    <color name="light_green_900">#33691E</color>
+
+    <color name="deep_orange_50">#FBEBE7</color>
+</resources>
