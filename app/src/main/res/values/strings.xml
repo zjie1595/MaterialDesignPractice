@@ -62,4 +62,9 @@ If you have any questions regarding privacy while using the Application, or have
     <string name="action_1">Action 1</string>
     <string name="action_2">Action 2</string>
     <string name="toggle">Toggle</string>
+    <string name="option_1">Option 1</string>
+    <string name="option_2">Option 2</string>
+    <string name="option_3">Option 3</string>
+    <string name="snackbar">显示Snackbar</string>
+    <string name="hint">请输入文字</string>
 </resources>
